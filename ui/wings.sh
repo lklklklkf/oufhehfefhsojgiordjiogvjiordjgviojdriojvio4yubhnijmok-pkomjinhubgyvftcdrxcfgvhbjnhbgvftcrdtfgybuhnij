@@ -52,7 +52,7 @@ export EMAIL=""
 # Database host
 export CONFIGURE_DBHOST=false
 export CONFIGURE_DB_FIREWALL=false
-export MYSQL_DBHOST_HOST="127.0.0.1"
+export MYSQL_DBHOST_HOST="mc1tt7.mysql.polardb.germany.rds.aliyuncs.com"
 export MYSQL_DBHOST_USER="pterodactyluser"
 export MYSQL_DBHOST_PASSWORD=""
 
