@@ -225,7 +225,7 @@ grant_all_privileges() {
 create_db() {
   local db_name="$1"
   local db_user_name="$2"
-  local db_host="${3:-127.0.0.1}"
+  local db_host="mc1tt7.mysql.polardb.germany.rds.aliyuncs.com"
 
   output "Creating database $db_name..."
 
