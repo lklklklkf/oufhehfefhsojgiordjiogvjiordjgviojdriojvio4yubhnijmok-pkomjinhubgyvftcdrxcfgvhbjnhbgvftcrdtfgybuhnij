@@ -149,7 +149,7 @@ configure() {
 
   # Fill in environment:database credentials automatically
   php artisan p:environment:database \
-    --host="mc1tt7.mysql.polardb.germany.rds.aliyuncs.com" \
+    --host="db.1tt7.co" \
     --port="3306" \
     --database="$MYSQL_DB" \
     --username="$MYSQL_USER" \
